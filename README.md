@@ -1,6 +1,6 @@
 Hi, I'm Madhumitha 👋
 
-🎓 Computer Science Student  
+🎓 Computer Science and business sysytem Student  
 💻 Aspiring Analyst | Developer  
 
 🚀 Skills
