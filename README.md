@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi, I'm Madhumitha 👋
 
-<!--
-**Madhumitha1125/Madhumitha1125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 Aspiring Analyst | Developer  
 
-Here are some ideas to get you started:
+🚀 Skills
+- Python, Java, SQL  
+- HTML, CSS, React  
+- Django, Firebase  
+- Data Analysis  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Projects
+🔹 Real Estate Analytics System  
+🔹 Student Attendance Management System  
+
+📫 Connect with me
+LinkedIn: linkedin.com/in/madhumitha-veeramurugan-1706a62a6
